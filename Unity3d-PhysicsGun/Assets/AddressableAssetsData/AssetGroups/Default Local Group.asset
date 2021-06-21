@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: cb05099184c35194085ccc6a0b452889
+  m_SerializeEntries:
+  - m_GUID: d28c8491603c758439196dc765406834
+    m_Address: Assets/ArtAssets/Sci-Fi Guns/Prefabs/cyan/cyan (5).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 628e4f30c804d744eb3725d4c11166a9
+    m_Address: Assets/ArtAssets/Sci-Fi Guns/Meshes/5.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a173a4e028e19ad419832dcdafa29d97, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3ba65c23ca26be949a3377d3d55f5589, type: 2}
+    - {fileID: 11400000, guid: 829f69f8c8e05264ba491db0dceb6cfe, type: 2}

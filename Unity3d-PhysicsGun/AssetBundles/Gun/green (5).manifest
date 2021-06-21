@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3357874237
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6909f5677f790f0f339de0eccefdf897
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c31af75079f831b04b55fc6ad0a01bd2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ArtAssets/Sci-Fi Guns/Prefabs/green/green (5).prefab
+- Assets/ArtAssets/Sci-Fi Guns/Meshes/5.FBX
+- Assets/ArtAssets/Sci-Fi Guns/Textures/emission_green.jpg
+- Assets/ArtAssets/Sci-Fi Guns/Meshes/Materials/albedo_and_emission.mat
+- Assets/ArtAssets/Sci-Fi Guns/Textures/albedo.jpg
+- Assets/ArtAssets/Sci-Fi Guns/Materials/green.mat
+Dependencies: []

@@ -269,6 +269,7 @@ public class PhysicsGunInteractionBehavior : MonoBehaviour
                     _rotationAxis = !_rotationAxis;
 
                     OnAxisChanged.Invoke(_rotationAxis);
+                    
                 }
 
                 //Snap Object nearest _snapRotationDegrees
